@@ -26,7 +26,7 @@ Feature Detail
 
 
 Approach
-* EDA for numerical and categorical dat <br>
+* EDA for numerical and categorical features <br>
 * Feature engineering <br>
     - Numerical Features: Standardization <br>
     - Categorical Features: One-hot encoding <br>
