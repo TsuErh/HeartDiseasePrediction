@@ -3,7 +3,7 @@
 Dataset
 * From Kaggle "Heart Attack Analysis & Prediction Dataset" (https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset) <br>
 * Dataset: 13 columns/features and 1 target <br>
-* Target: leass chance of heart attack (0) and more chance of heart attack (1) <br>
+* Target: less chance of heart attack (0) and more chance of heart attack (1) <br>
 
 Feature Detail
 * Age: age of patient (numerical data) <br>
